@@ -3,4 +3,4 @@ Build a java desktop application to manage goods receipt and goods delivery
 
 This is the assignment of Java Desktop Application (PRJ311). We use Java programming language to build an application that managing goods receipt and goods delivery for a storage of a grocery store
 
-# Important Note: We haven't finished all the functions in the project. We will try our best to finish the whole project. (The updated one will be pushed to GitHub shortly). We are sorry for our procrastination
+# Important Note: Due to not finish work on time, we have the updated part for the code and for document. We are sorry for our procrastination
